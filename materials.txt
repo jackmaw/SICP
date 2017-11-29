@@ -1,0 +1,13 @@
+Course Link: https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
+
+Course Files: http://www-inst.eecs.berkeley.edu/~cs61a/reader/
+
+Course Reader: http://www-inst.eecs.berkeley.edu/~cs61a/reader/vol2.html
+
+Scheme Reference manual: www-inst.eecs.berkeley.edu/~cs61a/reader/r5rs.pdf
+
+Exercises: http://www-inst.eecs.berkeley.edu/~cs61a/reader/nodate-hw.pdf
+
+Reading Afterwards: https://www.amazon.com/Concepts-Techniques-Models-Computer-Programming/dp/0262220695/?pldnSite=1
+
+
